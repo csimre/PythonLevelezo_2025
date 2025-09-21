@@ -1,9 +1,9 @@
-import modul
 import random
-#from modul import *
-#import modul as m
 
 from modul import osszeg as szum
+
+# from modul import *
+# import modul as m
 
 
 '''
@@ -50,3 +50,4 @@ print (random.randint(5,20))
 
 szum()
 
+print ("GIT test")
