@@ -49,5 +49,3 @@ print("A felhasznalo kora: {0}". format(kor))
 print (random.randint(5,20))
 
 szum()
-
-print ("GIT test")
